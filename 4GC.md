@@ -28,10 +28,25 @@ __Rules:__
 
 __External material :__
 
+### Videos 
+
 *   [Introduction to Linux](https://www.youtube.com/watch?v=V1y-mbWM3B8)
 *   [Command line crash course (Free code camp)](https://www.youtube.com/watch?v=yz7nYlnXLfE)
 *   [Guide to bash terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
 *   [Functions in Bash](https://drive.google.com/file/d/1yFxFSsti08fJYJsX103Fgaq_nr04V9sG/view)
 *   [Extra geek linux material (optional)](https://www.youtube.com/watch?v=2PGnYjbYuUo)
 
-**This file is converted from html to md using python script** 
+### Articles:
+* [Shell Scripting](https://www.guru99.com/introduction-to-shell-scripting.html)
+
+### TODO linux shell scripts :
+
+- [ ] Basic Hello world script.
+- [ ] Even or odd script.
+- [ ] Sum 2 numbers script.
+- [ ] Arithmatic Calculator script.
+- [ ] Shutdown script.
+- [ ] If , Else if and else condition script.
+- [ ] Get User Input script.
+
+**Some of the files' contents is converted from html to md using python script** 
