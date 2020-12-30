@@ -38,6 +38,7 @@ __External material :__
 
 ### Articles:
 * [Shell Scripting](https://www.guru99.com/introduction-to-shell-scripting.html)
+* [30 Basic shell examples](https://linuxhint.com/30_bash_script_examples/)
 
 ### TODO linux shell scripts :
 
