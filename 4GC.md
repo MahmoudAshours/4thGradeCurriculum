@@ -6,6 +6,8 @@ In this repository , I’ll include steps / external material for Fourth grade c
 
 First : 
 
+# Postponed to 20 / 2 / 2021
+
 ## Practical exams :__
 
 <table><tr><td><p><strong>Operating system</strong></p></td><td><p>2 / 1 / 2020</p></td></tr><tr><td><p><strong>Image processing </strong></p></td><td><p>3 / 1 / 2020</p></td></tr><tr><td><p><strong>Dynamic Languages</strong></p></td><td><p>4 / 1/ 2020</p></td></tr><tr><td><p><strong>Communications</strong></p></td><td><p>5 / 1/ 2020</p></td></tr><tr><td><p><strong>Data mining </strong></p></td><td><p>9 / 1 /2020</p></td></tr></table>
@@ -51,4 +53,6 @@ __External material :__
 - [ ] Get User Input script.
 
 All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour/BasicLinuxScripts) repo.
+
+
 **Some of the files' contents is converted from html to md using python script** 
