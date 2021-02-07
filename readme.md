@@ -67,5 +67,6 @@ Data communications refers to the transmission of this digital data between two 
 - [Learn about Data Communication in Detail](https://www.youtube.com/watch?v=O9PnP3qLnCQ)
 - [*beside the University's cirruclum*](https://www.notion.so/Data-Communication-b91f0371418c4e7e9f1c44bba1f9f04f)
 
+## Some Explanations :
 
 **Some of the files' contents is converted from html to md using python script** 
