@@ -68,5 +68,13 @@ Data communications refers to the transmission of this digital data between two 
 - [*beside the University's cirruclum*](https://www.notion.so/Data-Communication-b91f0371418c4e7e9f1c44bba1f9f04f)
 
 ## Some Explanations :
+  ### Topologies
+- [Network Topologies](https://github.com/MeitanteiAshour/4thGradeCurriculum/blob/main/Networks%20Topology%20.docx)
+- [Mesh explained](https://www.youtube.com/watch?v=yLzo36EQmr8)
+- [Ring explained](https://www.youtube.com/watch?v=OSnnJNTa5cU)
+- [Star explained](https://www.youtube.com/watch?v=EQ3rW22-Py0)
+- [Bus explained](https://www.youtube.com/watch?v=Awt4ikvFYyI)
 
+### Models
+- [OSI](https://www.youtube.com/watch?v=Ilk7UXzV_Qc)
 **Some of the files' contents is converted from html to md using python script** 
