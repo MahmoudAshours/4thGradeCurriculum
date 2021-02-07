@@ -45,12 +45,12 @@ __External material :__
 ### TODO linux shell scripts :
 
 - [x] Basic Hello world script.
-- [ ] Even or odd script.
-- [ ] Sum 2 numbers script.
-- [ ] Arithmatic Calculator script.
-- [ ] Shutdown script.
-- [ ] If , Else if and else condition script.
-- [ ] Get User Input script.
+- [x] Even or odd script.
+- [x] Sum 2 numbers script.
+- [x] Arithmatic Calculator script.
+- [x] Shutdown script.
+- [x] If , Else if and else condition script.
+- [x] Get User Input script.
 
 All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour/BasicLinuxScripts) repo.
 
