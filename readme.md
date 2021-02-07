@@ -54,5 +54,18 @@ __External material :__
 
 All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour/BasicLinuxScripts) repo.
 
+## Data communications :
+
+Data communications refers to the transmission of this digital data between two or more computers and a computer network or data network is a telecommunications network that allows computers to exchange data. The physical connection between networked computing devices is established using either cable media or wireless media. The best-known computer network is the Internet.
+
+## Resources :
+
+- [What is Data Communication?](https://ecomputernotes.com/computernetworkingnotes/communication-networks/what-is-data-communication#:~:text=Data%20communication%20refers%20to%20the,a%20similarly%20restricted%20geographical%20area.)
+- [Why to Learn Data Communication & Computer Network?](https://www.tutorialspoint.com/data_communication_computer_network/index.htm)
+- [Data Communications introduction video](https://www.youtube.com/watch?v=ULgKbLWhgEM)
+- [INTRODUCTION TO DATA COMMUNICATIONS AND NETWORKING](https://www.youtube.com/watch?v=mYWsllbszYQ)
+- [Learn about Data Communication in Detail](https://www.youtube.com/watch?v=O9PnP3qLnCQ)
+- [*beside the University's cirruclum*](https://www.notion.so/Data-Communication-b91f0371418c4e7e9f1c44bba1f9f04f)
+
 
 **Some of the files' contents is converted from html to md using python script** 
