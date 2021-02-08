@@ -92,5 +92,15 @@ Data communications refers to the transmission of this digital data between two 
 - [Difference between ethernet & fast ethernet](https://www.quora.com/What-is-the-difference-between-Ethernet-and-Fast-Ethernet)
 - [How does load balancing happen?](https://www.youtube.com/watch?v=K0Ta65OqQkY)
 
+## Lecture 3 :
+- [Static route configuration | Network Fundamentals](https://www.youtube.com/watch?v=cupc6Helc6Y)
+- [Static Routing explained](https://www.youtube.com/watch?v=0GyO8qT99bw)
+- [Article on How to configure static routing on Cisco](https://www.grandmetric.com/knowledge-base/design_and_configure/static-routing-configuration/)
+- [What is CDP](https://www.youtube.com/watch?v=_JAm2G6rFaE)
+- [Static and Default Routes](http://danscourses.com/static-and-default-routes/)
+- [Routing Tables Explained](https://www.youtube.com/watch?v=g8eP4fhrx3I)
+
+
+
 
 **Some of the files' contents is converted from html to md using python script** 
