@@ -68,6 +68,9 @@ Data communications refers to the transmission of this digital data between two 
 - [*beside the University's cirruclum*](https://www.notion.so/Data-Communication-b91f0371418c4e7e9f1c44bba1f9f04f)
 
 ## Some Explanations :
+
+## Lecture 1 :
+
   ### Topologies
 - [Network Topologies](https://github.com/MeitanteiAshour/4thGradeCurriculum/blob/main/Networks%20Topology%20.docx)
 - [Mesh explained](https://www.youtube.com/watch?v=yLzo36EQmr8)
@@ -77,4 +80,17 @@ Data communications refers to the transmission of this digital data between two 
 
 ### Models
 - [OSI](https://www.youtube.com/watch?v=Ilk7UXzV_Qc)
+
+## Lecture 2 :
+
+- [What is Diagnostic Software?](https://www.easytechjunkie.com/what-is-diagnostic-software.htm#:~:text=Diagnostic%20software%20is%20used%20to,of%20potential%20problems%20or%20breakdowns.&text=Something%20as%20simple%20as%20the,a%20type%20of%20diagnostic%20software.)
+- [Dive into router interfaces](https://www.youtube.com/watch?v=l-jtaAnMZFU)
+- [What is NVRAM](https://www.youtube.com/watch?v=VzG4MmGOTOQ)
+- [Serial over LAN?](https://www.flexihub.com/serial-over-network.html)
+- [Boot up process in depth](https://www.youtube.com/watch?v=fALsjJ6FFG8)
+- [What are banners?](https://www.ciscozine.com/banner-what-is-that/#:~:text=The%20banner%20is%20a%20feature,in%20a%20router%20via%20SSH.&text=Banner%20messages%20should%20be%20used,not%20welcome%20on%20your%20network.)
+- [Difference between ethernet & fast ethernet](https://www.quora.com/What-is-the-difference-between-Ethernet-and-Fast-Ethernet)
+- [How does load balancing happen?](https://www.youtube.com/watch?v=K0Ta65OqQkY)
+
+
 **Some of the files' contents is converted from html to md using python script** 
