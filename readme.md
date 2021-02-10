@@ -106,4 +106,9 @@ Data communications refers to the transmission of this digital data between two 
 - [Quick route summarization](https://www.youtube.com/watch?v=QqEcCzhlWis)
 - [Basic Route Summarization](https://www.youtube.com/watch?v=r8uQ5MQ43Uc)
 
+## Lecture 5 :
+- [Static, Default and Dynamic Routing](https://www.youtube.com/watch?v=U5dqDGWKako)
+- [Dynamic Routing](https://www.youtube.com/watch?v=DT-pmXMCOS8)
+
+
 **Some of the files' contents is converted from html to md using python script** 
