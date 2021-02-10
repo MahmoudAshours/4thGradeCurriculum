@@ -110,5 +110,7 @@ Data communications refers to the transmission of this digital data between two 
 - [Static, Default and Dynamic Routing](https://www.youtube.com/watch?v=U5dqDGWKako)
 - [Dynamic Routing](https://www.youtube.com/watch?v=DT-pmXMCOS8)
 
-
+## Lecture 6 :
+- [Routing Protocol Metrics](https://www.youtube.com/watch?v=Q4e1d4MR4II)
+- [Distance vector routing algorithm](https://www.youtube.com/watch?v=qvBpF2qkK_Y)
 **Some of the files' contents is converted from html to md using python script** 
