@@ -113,4 +113,16 @@ Data communications refers to the transmission of this digital data between two 
 ## Lecture 6 :
 - [Routing Protocol Metrics](https://www.youtube.com/watch?v=Q4e1d4MR4II)
 - [Distance vector routing algorithm](https://www.youtube.com/watch?v=qvBpF2qkK_Y)
+
+## Lectrue 7 :
+- [Split horizon - Arabic](https://www.youtube.com/watch?v=6IYfcTUOvD0)
+- [What Is Split Horizon for CCNA, Network+, Security+](https://www.youtube.com/watch?v=KulCYdYDQuE)
+- [Distance Vector - Split Horizon, Poison Reverse, Route Poisoning Explained](https://www.youtube.com/watch?v=SkvPNnVzY5A)
+- [DNS and Time to Live (TTL)](https://www.youtube.com/watch?v=jK5Q9ImdW5U)
+- [Traceroute](https://www.youtube.com/watch?v=DpARSQz2rSw)
+- [How to Run a Trace Route on Windows, MAC or Linux](https://www.noip.com/support/knowledgebase/trace-route-guide/#:~:text=To%20perform%20a%20trace%20route%20in%20Linux%20open%20Terminal%20and,apt%2Dget%20install%20traceroute%E2%80%9D.)
+
+## Lecture 8 :
+
+
 **Some of the files' contents is converted from html to md using python script** 
