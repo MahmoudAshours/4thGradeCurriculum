@@ -100,7 +100,10 @@ Data communications refers to the transmission of this digital data between two 
 - [Static and Default Routes](http://danscourses.com/static-and-default-routes/)
 - [Routing Tables Explained](https://www.youtube.com/watch?v=g8eP4fhrx3I)
 
-
-
+## Lecture 4 :
+- [ What does STUB NETWORK mean?](https://www.youtube.com/watch?v=EB4ysd1VHow)
+- [Stub Networks](https://www.youtube.com/watch?v=yMRBTBVj9ME)
+- [Quick route summarization](https://www.youtube.com/watch?v=QqEcCzhlWis)
+- [Basic Route Summarization](https://www.youtube.com/watch?v=r8uQ5MQ43Uc)
 
 **Some of the files' contents is converted from html to md using python script** 
