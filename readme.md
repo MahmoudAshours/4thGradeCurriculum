@@ -123,6 +123,14 @@ Data communications refers to the transmission of this digital data between two 
 - [How to Run a Trace Route on Windows, MAC or Linux](https://www.noip.com/support/knowledgebase/trace-route-guide/#:~:text=To%20perform%20a%20trace%20route%20in%20Linux%20open%20Terminal%20and,apt%2Dget%20install%20traceroute%E2%80%9D.)
 
 ## Lecture 8 :
+- [Link State Routing Algorithm](https://www.youtube.com/watch?v=ud7qWRBirsk)
+- [Link State Routing Protocols](https://www.youtube.com/watch?v=sDnIRhiolp8)
+- [Dijkstra's Algorithm](https://www.youtube.com/watch?v=GazC3A4OQTE)
+- [Link State Routing | Route calculation using Dijkstra's algorithm](https://www.youtube.com/watch?v=BkiHi9QUxMU)
+- [OSPF Special Area Types](https://www.youtube.com/watch?v=1ScQYR7Gltw)
+- [Some of my Favorite OSPF Show Commands](https://www.youtube.com/watch?v=Noh_w25-O3s)
 
+## Additionals :
+- [What is the Admin Distance of a Default Route?](https://www.youtube.com/watch?v=eFczjfqDJSY)
 
 **Some of the files' contents is converted from html to md using python script** 
