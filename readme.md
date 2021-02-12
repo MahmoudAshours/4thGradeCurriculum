@@ -20,7 +20,7 @@ Second:
 
 ## Practical exams :__
 
-## Operating systems : __
+# Operating systems : __
 
 Operating systems practical focuses on linux bash commands :
 
@@ -54,7 +54,7 @@ __External material :__
 
 All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour/BasicLinuxScripts) repo.
 
-## Data communications :
+# Data communications :
 
 Data communications refers to the transmission of this digital data between two or more computers and a computer network or data network is a telecommunications network that allows computers to exchange data. The physical connection between networked computing devices is established using either cable media or wireless media. The best-known computer network is the Internet.
 
@@ -133,5 +133,10 @@ Data communications refers to the transmission of this digital data between two 
 ## Additionals :
 - [What is the Admin Distance of a Default Route?](https://www.youtube.com/watch?v=eFczjfqDJSY)
 - [Using Tools Like Wireshark to Reinforce Your Studies](https://www.youtube.com/watch?v=wyrHm-7rP58)
+- [Troubleshooting With the OSI Model](https://www.youtube.com/watch?v=kdFOCleUkVE)
+- [OSPF Special Area Types](https://www.youtube.com/watch?v=1ScQYR7Gltw)
+
+## Practical : 
+- [Packet Tracer Cisco Commands list CLI Basic](https://w7cloud.com/packet-tracer-cisco-commands-list-cli-basic/#:~:text=Command%20for%20leaving%20this%20mode&text=Press%20enter%20for%20accessing%20this.&text=Enter%20reload%20command%20from%20privileged,Use%20exit%20command.)
 
 **Some of the files' contents is converted from html to md using python script** 
