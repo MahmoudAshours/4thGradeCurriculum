@@ -10,13 +10,24 @@ First :
 
 ## Practical exams :__
 
-<table><tr><td><p><strong>Operating system</strong></p></td><td><p>2 / 1 / 2020</p></td></tr><tr><td><p><strong>Image processing </strong></p></td><td><p>3 / 1 / 2020</p></td></tr><tr><td><p><strong>Dynamic Languages</strong></p></td><td><p>4 / 1/ 2020</p></td></tr><tr><td><p><strong>Communications</strong></p></td><td><p>5 / 1/ 2020</p></td></tr><tr><td><p><strong>Data mining </strong></p></td><td><p>9 / 1 /2020</p></td></tr></table>
+| Data communication | 20/2/2021 |
+| --- | --- |
+| Operating system | 25 / 2 / 2021 |
+| Image processing | 23 / 3 / 2021 |
+| Dynamic languages | 24 / 3 / 2021 |
+| Data mining | 25 / 3 / 2021 |
 
 Second:
 
 ## Literal exams:__
 
-<table><tr><td><p><strong>Operating System</strong></p></td><td><p>17 / 1 / 2020</p></td></tr><tr><td><p><strong>Dynamic languages</strong></p></td><td><p>19 / 1 / 2020</p></td></tr><tr><td><p><strong>Image Processing</strong></p></td><td><p>24 / 1 / 2020</p></td></tr><tr><td><p><strong>Data mining</strong></p></td><td><p>27 / 1 / 2020</p></td></tr><tr><td><p><strong>Communications</strong></p></td><td><p>31 / 1 / 2020</p></td></tr></table>
+
+| Operating system | 28 / 2 /2021 |
+| --- | --- |
+| Dynamic languages | 3 / 3 / 2021 |
+| Image processing | 7 / 3 / 2021 |
+| Data mining | 10 / 3 / 2021 |
+| Data communications | 14 / 3 / 2021 |
 
 ## Practical exams :__
 
