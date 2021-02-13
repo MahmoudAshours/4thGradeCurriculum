@@ -168,6 +168,15 @@ Data communications refers to the transmission of this digital data between two 
 - [What Is Correlation?](https://www.youtube.com/watch?v=Ypgo4qUBt5o)
 - [Week 9 : TUTORIAL: CORRELATION ANALYSIS](https://www.youtube.com/watch?v=uivL8QmlBXA)
 - [Dimensionality Reduction](https://www.youtube.com/watch?v=3uxOyk-SczU)
+- [Types of Sampling | Introduction to Data Mining part 13](https://www.youtube.com/watch?v=4EVqbRnPLq8)
+- [What is OLAP?](https://www.youtube.com/watch?v=2ryG3Jy6eIY)
+- [OLAP and Data Modeling Concepts](https://www.youtube.com/watch?v=rnQDuz1ZkIo)
+- [OLAP vs OLTP | Online Transaction Processing vs Online Analytical Processing | Intellipaat](https://www.youtube.com/watch?v=BQpCGyUzTHo)
+- [Excel Tutorial: What is Business Intelligence and an OLAP Cube? | ExcelCentral.com](https://www.youtube.com/watch?v=yoE6bgJv08E)
+- [What Is a Data Warehouse?](https://www.youtube.com/watch?v=AHR_7jFCMeY)
+- [Database VS Data Warehouse](https://www.youtube.com/watch?v=FxQG65OhXAQ)
+- [Benefits of a Data Warehouse](https://www.youtube.com/watch?v=KGHbY_Sales)
+- [What is a Data Warehouse -  Explained with real life example | datawarehouse vs database (2020)](https://www.youtube.com/watch?v=jmwGNhUXn_o)
 
 
 **Some of the files' contents is converted from html to md using python script** 
