@@ -157,6 +157,17 @@ Data communications refers to the transmission of this digital data between two 
 - [Classification and Regression *breif*](https://www.youtube.com/watch?v=TJveOYsK6MY)
 - [Article on Classification, regression, and prediction — what’s the difference?](https://towardsdatascience.com/classification-regression-and-prediction-whats-the-difference-5423d9efe4ec)
 -[Data Cleansing Steps & Phases](https://www.youtube.com/watch?v=mwEPXevpqls)
+- [Data Analysis 3: Cleaning Data - Computerphile](https://www.youtube.com/watch?v=zVImIQuqjQ0)
+- [Tutorial: Data Cleaning](https://www.youtube.com/watch?v=2ZMXjDVIdd8)
+- [Data Integration](https://www.youtube.com/watch?v=37Dz1jYLerU)
+- [Data Transformation | Introduction to Data Mining part 16](https://www.youtube.com/watch?v=utfFv5a5CEY)
+- [Data Analysis 4: Data Transformation - Computerphile](https://www.youtube.com/watch?v=ms6EV1pG3tc)
+- [Data Analysis 5: Data Reduction - Computerphile](https://www.youtube.com/watch?v=8k56bvhXw4s)
+- [Intro to Data Reduction](https://www.youtube.com/watch?v=MFJGiLNGZVU)
+- [Discretizing](https://www.youtube.com/watch?v=MK_dMsn4MqI)
+- [What Is Correlation?](https://www.youtube.com/watch?v=Ypgo4qUBt5o)
+- [Week 9 : TUTORIAL: CORRELATION ANALYSIS](https://www.youtube.com/watch?v=uivL8QmlBXA)
+- [Dimensionality Reduction](https://www.youtube.com/watch?v=3uxOyk-SczU)
 
 
 **Some of the files' contents is converted from html to md using python script** 
