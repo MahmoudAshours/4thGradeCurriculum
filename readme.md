@@ -21,6 +21,7 @@ Second:
 
 ## Literal exams:__
 
+#### Postponed
 
 | Operating system | 28 / 2 /2021 |
 | --- | --- |
