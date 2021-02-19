@@ -195,5 +195,8 @@ Data communications refers to the transmission of this digital data between two 
 - [Edge Detection](https://www.youtube.com/watch?v=-pmUQ6RSejQ)
 - [Thresholding](https://www.youtube.com/watch?v=6pX3II2eVs0)
 - [How region growing image segmentation works](https://www.youtube.com/watch?v=VaR21S8ewCQ)
+- [How Spatial Filtering works](https://www.youtube.com/watch?v=hRtmSh2gF48)
+- [Separable Filters and a Bauble - Computerphile](https://www.youtube.com/watch?v=SiJpkucGa1o)
+- [Resizing Images - Computerphile](https://www.youtube.com/watch?v=AqscP7rc8_M)
 
 **Some of the files' contents is converted from html to md using python script** 
