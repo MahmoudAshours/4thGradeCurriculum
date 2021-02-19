@@ -6,13 +6,13 @@ In this repository , I’ll include steps / external material for Fourth grade c
 
 First : 
 
-# Postponed to 20 / 2 / 2021
+# Postponed to 20 / 3 / 2021 probably
 
 ## Practical exams :__
 
-| Data communication | 20/2/2021 |
+| Data communication | 20/3/2021 |
 | --- | --- |
-| Operating system | 25 / 2 / 2021 |
+| Operating system | 25 / 3 / 2021 |
 | Image processing | 23 / 3 / 2021 |
 | Dynamic languages | 24 / 3 / 2021 |
 | Data mining | 25 / 3 / 2021 |
@@ -20,8 +20,6 @@ First :
 Second:
 
 ## Literal exams:__
-
-#### Postponed
 
 | Operating system | 28 / 2 /2021 |
 | --- | --- |
