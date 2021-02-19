@@ -179,6 +179,9 @@ Data communications refers to the transmission of this digital data between two 
 - [What is a Data Warehouse -  Explained with real life example | datawarehouse vs database (2020)](https://www.youtube.com/watch?v=jmwGNhUXn_o)
 
 # Image processing
+
+[My projects (tasks) on image processing using python & shell.](https://github.com/MeitanteiAshour/IPApps)
+
 - [What Is Image Processing? – Vision Campus](https://www.youtube.com/watch?v=QMLbTEQJCaI)
 - [Physics 11.1.2a - Image Formation](https://www.youtube.com/watch?v=SCgrQIPx_3E)
 - [Image Digitization](https://www.youtube.com/watch?v=8v0rSL-5gLI)
