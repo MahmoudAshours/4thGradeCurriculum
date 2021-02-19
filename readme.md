@@ -186,5 +186,11 @@ Data communications refers to the transmission of this digital data between two 
 - [Image Restoration Example](https://www.youtube.com/watch?v=YhLF95crTWs)
 - [Introduction to Image Resolution](https://www.youtube.com/watch?v=9G-mCRaPoRc)
 - [Introduction to Image Contrast](https://www.youtube.com/watch?v=SVK4OkUK0Yw)
+- [How Blurs & Filters Work - Computerphile](https://www.youtube.com/watch?v=C_zFhWdM4ic)
+- [Finding the Edges (Sobel Operator) - Computerphile](https://www.youtube.com/watch?v=uihBwtPIBxM)
+- [Canny Edge Detector - Computerphile](https://www.youtube.com/watch?v=sRFM5IEqR2w)
+- [Edge Detection](https://www.youtube.com/watch?v=-pmUQ6RSejQ)
+- [Thresholding](https://www.youtube.com/watch?v=6pX3II2eVs0)
+- [How region growing image segmentation works](https://www.youtube.com/watch?v=VaR21S8ewCQ)
 
 **Some of the files' contents is converted from html to md using python script** 
