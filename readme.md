@@ -180,5 +180,11 @@ Data communications refers to the transmission of this digital data between two 
 
 # Image processing
 - [What Is Image Processing? – Vision Campus](https://www.youtube.com/watch?v=QMLbTEQJCaI)
+- [Physics 11.1.2a - Image Formation](https://www.youtube.com/watch?v=SCgrQIPx_3E)
+- [Image Digitization](https://www.youtube.com/watch?v=8v0rSL-5gLI)
+- [What is Image Enhancement?](https://www.youtube.com/watch?v=-FqfaVkIORI)
+- [Image Restoration Example](https://www.youtube.com/watch?v=YhLF95crTWs)
+- [Introduction to Image Resolution](https://www.youtube.com/watch?v=9G-mCRaPoRc)
+- [Introduction to Image Contrast](https://www.youtube.com/watch?v=SVK4OkUK0Yw)
 
 **Some of the files' contents is converted from html to md using python script** 
