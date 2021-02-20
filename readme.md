@@ -214,5 +214,15 @@ Data communications refers to the transmission of this digital data between two 
 - [JPEG DCT, Discrete Cosine Transform (JPEG Pt2)- Computerphile](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 - [But what is the Fourier Transform?  A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
 
+## Additionals : 
+- [Optical Character Recognition (OCR) - Computerphile](https://www.youtube.com/watch?v=ZNrteLp_SvY)
+- [Industrial Light-field Magic - Computerphile](https://www.youtube.com/watch?v=ZIfn2Ocy9RU)
+- [Bicubic Interpolation - Computerphile](https://www.youtube.com/watch?v=poY_nGzEEWM)
+- [How Autofocus Works - Computerphile](https://www.youtube.com/watch?v=B-TOUPXytw4)
+- [Capturing Digital Images (The Bayer Filter) - Computerphile](https://www.youtube.com/watch?v=LWxu4rkZBLw)
+- [Colourspaces (JPEG Pt0)- Computerphile](https://www.youtube.com/watch?v=LFXN9PiOGtY)
+- [Faces & the Local Binary Pattern - Computerphile](https://www.youtube.com/watch?v=wpAwdsubl1w)
+- [Entropy in Compression - Computerphile](https://www.youtube.com/watch?v=M5c_RFKVkko)
+- [Ordered Dithering - Computerphile](https://www.youtube.com/watch?v=IviNO7iICTM)
 
 **Some of the files' contents is converted from html to md using python script** 
