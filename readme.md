@@ -210,6 +210,9 @@ Data communications refers to the transmission of this digital data between two 
 - [ARTICLE Spatial Filters – Averaging filter and Median filter in Image Processing](https://www.geeksforgeeks.org/spatial-filters-averaging-filter-and-median-filter-in-image-processing/)
 - [Spatial domain vs Frequency domain ARTICLE](https://medium.com/vithelper/spatial-and-frequency-domain-image-processing-83ffa3fc7cbc)
 - [Why is it called unsharp masking if it’s actually sharpening images?](https://www.idtools.com.au/unsharp-masking-python-opencv/)
+- [The Discrete Fourier Transform (DFT)](https://www.youtube.com/watch?v=nl9TZanwbBk)
+- [JPEG DCT, Discrete Cosine Transform (JPEG Pt2)- Computerphile](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
+- [But what is the Fourier Transform?  A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
 
 
 **Some of the files' contents is converted from html to md using python script** 
