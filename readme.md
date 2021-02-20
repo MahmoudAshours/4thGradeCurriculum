@@ -201,5 +201,8 @@ Data communications refers to the transmission of this digital data between two 
 - [contrast stretching in digital image processing](https://www.youtube.com/watch?v=o7TftOyKpJI)
 - [Frequency Domain Processing Techniques](https://www.youtube.com/watch?v=JfrcMYBouJE)
 - [How Spatial Filtering works](https://www.youtube.com/watch?v=hRtmSh2gF48)
-
+- [Introduction to Frequency domain ARTICLE](https://www.tutorialspoint.com/dip/introduction_to_frequency_domain.htm#:~:text=Difference%20between%20spatial%20domain%20and,are%20changing%20in%20spatial%20domain.)
+- [Spatial Filtering and its Types](https://www.geeksforgeeks.org/spatial-filtering-and-its-types/)
+- [ARTICLE Spatial Filters – Averaging filter and Median filter in Image Processing](https://www.geeksforgeeks.org/spatial-filters-averaging-filter-and-median-filter-in-image-processing/)
+- [Spatial domain vs Frequency domain ARTICLE](https://medium.com/vithelper/spatial-and-frequency-domain-image-processing-83ffa3fc7cbc)
 **Some of the files' contents is converted from html to md using python script** 
