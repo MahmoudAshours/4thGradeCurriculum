@@ -197,5 +197,9 @@ Data communications refers to the transmission of this digital data between two 
 - [How Spatial Filtering works](https://www.youtube.com/watch?v=hRtmSh2gF48)
 - [Separable Filters and a Bauble - Computerphile](https://www.youtube.com/watch?v=SiJpkucGa1o)
 - [Resizing Images - Computerphile](https://www.youtube.com/watch?v=AqscP7rc8_M)
+- [Frequency domain – tutorial 1: concept of frequency (with Chinese subtitle)](https://www.youtube.com/watch?v=B3u57yF2JSc)
+- [contrast stretching in digital image processing](https://www.youtube.com/watch?v=o7TftOyKpJI)
+- [Frequency Domain Processing Techniques](https://www.youtube.com/watch?v=JfrcMYBouJE)
+- [How Spatial Filtering works](https://www.youtube.com/watch?v=hRtmSh2gF48)
 
 **Some of the files' contents is converted from html to md using python script** 
