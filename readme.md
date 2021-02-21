@@ -222,7 +222,10 @@ Data communications refers to the transmission of this digital data between two 
 - [Image Compression with Wavelets (Examples in Python)](https://www.youtube.com/watch?v=eJLF9HeZA8I)
 - [Wavelet Transform Analysis of Images using Python](https://www.youtube.com/watch?v=ExU0izGXgSI)
 - [Digital Image Processing I - Lecture 14 - FIR and IIR Filters](https://www.youtube.com/watch?v=EOaLI3DEYxc)
-
+- [Computing the Laplacian Pyramid](https://www.youtube.com/watch?v=_wZeX_35Iew)
+- [Gaussian Filter](https://www.youtube.com/watch?v=37hwKLc_geQ&feature=emb_title)
+- [Image Fusion using Discrete Wavelet Transform (DWT) in MATLAB (Restoration, Mixing and Morphing)](https://www.youtube.com/watch?v=gz5uVM38XHY)
+- 
 ## Additionals : 
 - [Optical Character Recognition (OCR) - Computerphile](https://www.youtube.com/watch?v=ZNrteLp_SvY)
 - [Industrial Light-field Magic - Computerphile](https://www.youtube.com/watch?v=ZIfn2Ocy9RU)
