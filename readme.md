@@ -213,6 +213,11 @@ Data communications refers to the transmission of this digital data between two 
 - [The Discrete Fourier Transform (DFT)](https://www.youtube.com/watch?v=nl9TZanwbBk)
 - [JPEG DCT, Discrete Cosine Transform (JPEG Pt2)- Computerphile](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 - [But what is the Fourier Transform?  A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
+- [Introduction to Image Histograms](https://www.youtube.com/watch?v=2LhfSgrjdGo)
+- [Introduction to Histogram Equalization](https://www.youtube.com/watch?v=WuVyG4pg9xQ)
+- [Short introduction to histogram processing](https://www.youtube.com/watch?v=nIRhHb04u_k)
+- [Understanding Wavelets, Part 1: What Are Wavelets](https://www.youtube.com/watch?v=QX1-xGVFqmw)
+- [Understanding Wavelets, Part 2: Types of Wavelet Transforms](https://www.youtube.com/watch?v=F7Lg-nFYooU)
 
 ## Additionals : 
 - [Optical Character Recognition (OCR) - Computerphile](https://www.youtube.com/watch?v=ZNrteLp_SvY)
