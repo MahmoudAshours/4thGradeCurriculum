@@ -218,6 +218,10 @@ Data communications refers to the transmission of this digital data between two 
 - [Short introduction to histogram processing](https://www.youtube.com/watch?v=nIRhHb04u_k)
 - [Understanding Wavelets, Part 1: What Are Wavelets](https://www.youtube.com/watch?v=QX1-xGVFqmw)
 - [Understanding Wavelets, Part 2: Types of Wavelet Transforms](https://www.youtube.com/watch?v=F7Lg-nFYooU)
+- [4.3 The Wavelet Transform | Image Analysis Class 2013](https://www.youtube.com/watch?v=DGUuJweHamQ)
+- [Image Compression with Wavelets (Examples in Python)](https://www.youtube.com/watch?v=eJLF9HeZA8I)
+- [Wavelet Transform Analysis of Images using Python](https://www.youtube.com/watch?v=ExU0izGXgSI)
+- [Digital Image Processing I - Lecture 14 - FIR and IIR Filters](https://www.youtube.com/watch?v=EOaLI3DEYxc)
 
 ## Additionals : 
 - [Optical Character Recognition (OCR) - Computerphile](https://www.youtube.com/watch?v=ZNrteLp_SvY)
