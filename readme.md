@@ -28,8 +28,6 @@ Second:
 | Data mining | 10 / 3 / 2021 |
 | Data communications | 14 / 3 / 2021 |
 
-## Practical exams :__
-
 # Operating systems : __
 
 Operating systems practical focuses on linux bash commands :
@@ -64,6 +62,9 @@ __External material :__
 
 All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour/BasicLinuxScripts) repo.
 
+## Literal Operating system 
+- []
+- 
 # Data communications :
 
 Data communications refers to the transmission of this digital data between two or more computers and a computer network or data network is a telecommunications network that allows computers to exchange data. The physical connection between networked computing devices is established using either cable media or wireless media. The best-known computer network is the Internet.
