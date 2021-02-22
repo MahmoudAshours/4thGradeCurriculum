@@ -63,8 +63,14 @@ __External material :__
 All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour/BasicLinuxScripts) repo.
 
 ## Literal Operating system 
-- []
-- 
+- [MIT 6.004 L19: Operating Systems](https://www.youtube.com/watch?v=Dj2hN_pFA8w)
+- [MIT 6.004 L21: Operating Systems: I/O and System Calls](https://www.youtube.com/watch?v=ReRj0Ww0TU4)
+- [Program, Interrupted - Computerphile](https://www.youtube.com/watch?v=54BrU82ANww)
+- [What is Bootstrapping? - Computerphile](https://www.youtube.com/watch?v=nslY1s0U9_c)
+- [Multi Programming - Computerphile](https://www.youtube.com/watch?v=MB0yDMQj1lU)
+- [OS Context Switching - Computerphile](https://www.youtube.com/watch?v=DKmBRl8j3Ak)
+
+
 # Data communications :
 
 Data communications refers to the transmission of this digital data between two or more computers and a computer network or data network is a telecommunications network that allows computers to exchange data. The physical connection between networked computing devices is established using either cable media or wireless media. The best-known computer network is the Internet.
