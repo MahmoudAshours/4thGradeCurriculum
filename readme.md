@@ -80,6 +80,9 @@ All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour
 - [Deadlock 3: Dining Philosophers](https://www.youtube.com/watch?v=_ruovgwXyYs)
 - [Buffer Overflow Attack - Computerphile](https://www.youtube.com/watch?v=1S0aBV-Waeo)
 - [What Happens When I Press a Key? - Computerphile](https://www.youtube.com/watch?v=ewE8b7zzej0)
+- [Parallel Computing Explained In 3 Minutes](https://www.youtube.com/watch?v=q7sgzDH1cR8)
+- [How Do CPUs Use Multiple Cores?](https://www.youtube.com/watch?v=S3I5WNHbnJ0)
+- [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 
 
 # Data communications :
