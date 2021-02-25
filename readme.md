@@ -69,6 +69,13 @@ All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour
 - [What is Bootstrapping? - Computerphile](https://www.youtube.com/watch?v=nslY1s0U9_c)
 - [Multi Programming - Computerphile](https://www.youtube.com/watch?v=MB0yDMQj1lU)
 - [OS Context Switching - Computerphile](https://www.youtube.com/watch?v=DKmBRl8j3Ak)
+- [Multithreading Code - Computerphile](https://www.youtube.com/watch?v=7ENFeb-J75k)
+- [Lecture 4, unit 1: Deadlock](https://www.youtube.com/watch?v=4qTZBrsIxMo)
+- [Lecture 4, unit 2: conditions for deadlock](https://www.youtube.com/watch?v=Z7iHodl1jsM)
+- [Lecture 4, unit 3: dealing with deadlock](https://www.youtube.com/watch?v=PFYRRktbaIk)
+- [Deadlock 3: Dining Philosophers](https://www.youtube.com/watch?v=_ruovgwXyYs)
+- [Buffer Overflow Attack - Computerphile](https://www.youtube.com/watch?v=1S0aBV-Waeo)
+- [What Happens When I Press a Key? - Computerphile](https://www.youtube.com/watch?v=ewE8b7zzej0)
 
 
 # Data communications :
