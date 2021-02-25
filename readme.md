@@ -65,6 +65,10 @@ All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour
 ## Literal Operating system 
 - [MIT 6.004 L19: Operating Systems](https://www.youtube.com/watch?v=Dj2hN_pFA8w)
 - [MIT 6.004 L21: Operating Systems: I/O and System Calls](https://www.youtube.com/watch?v=ReRj0Ww0TU4)
+- [Direct Memory Access (DMA)](https://www.youtube.com/watch?v=v58UFPKa8zs)
+- [Direct Memory Access](https://www.youtube.com/watch?v=trO6gWz5l2k)
+- [Direct Memory Access - DMA (simplified)](https://www.youtube.com/watch?v=kq30OAb6Ni0)
+- [Direct Memory Access - DMA - Simplified Explanation](https://www.youtube.com/watch?v=wi-po2SesoE)
 - [Program, Interrupted - Computerphile](https://www.youtube.com/watch?v=54BrU82ANww)
 - [What is Bootstrapping? - Computerphile](https://www.youtube.com/watch?v=nslY1s0U9_c)
 - [Multi Programming - Computerphile](https://www.youtube.com/watch?v=MB0yDMQj1lU)
