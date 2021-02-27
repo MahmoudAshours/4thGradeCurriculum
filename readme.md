@@ -88,6 +88,9 @@ All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour
 - [What is FreeBSD by Gavin Atkinson](https://www.youtube.com/watch?v=XnO4S7kb7vg)
 - [What is Linux? Unix? POSIX?](https://www.youtube.com/watch?v=hy4OeVCLGZ4)
 - [Solairs 11 Solaris Desktop ( X-Windows)](https://www.youtube.com/watch?v=JA9v_YD4GtM)
+- [Basics of OS (Storage Structure)](https://www.youtube.com/watch?v=YcRd3WMbXnE)
+- [Mass storage Systems](https://www.youtube.com/watch?v=KMETs6ONOoI)
+- [What is a Process? |  Process Management--- Basics + Scheduling algo's | OS | part-5](https://www.youtube.com/watch?v=PCZ1yxVN4n4)
 
 
 # Data communications :
