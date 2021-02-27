@@ -83,6 +83,11 @@ All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour
 - [Parallel Computing Explained In 3 Minutes](https://www.youtube.com/watch?v=q7sgzDH1cR8)
 - [How Do CPUs Use Multiple Cores?](https://www.youtube.com/watch?v=S3I5WNHbnJ0)
 - [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+- [Types of Operating Systems(Batch, Multiprogramming, Time Sharing, Multiprocessing, Real Time)](https://www.youtube.com/watch?v=PY6zEUELn8s)
+- [Operating System Part 5 - Clustered System, types and advantages](https://www.youtube.com/watch?v=lHa1ZgcWiNU)
+- [What is FreeBSD by Gavin Atkinson](https://www.youtube.com/watch?v=XnO4S7kb7vg)
+- [What is Linux? Unix? POSIX?](https://www.youtube.com/watch?v=hy4OeVCLGZ4)
+- [Solairs 11 Solaris Desktop ( X-Windows)](https://www.youtube.com/watch?v=JA9v_YD4GtM)
 
 
 # Data communications :
