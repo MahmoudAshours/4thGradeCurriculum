@@ -98,6 +98,14 @@ All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour
 - [15. Types of Schedulers](https://www.youtube.com/watch?v=-KELvnesplc)
 - [Process Scheduling](https://www.youtube.com/watch?v=2h3eWaPx8SA)
 
+## Additionals :
+- [Segmentation in Operating System](https://www.geeksforgeeks.org/segmentation-in-operating-system/)
+- [Difference between Multiprogramming, multitasking, multithreading and multiprocessing](https://www.geeksforgeeks.org/difference-between-multitasking-multithreading-and-multiprocessing/#:~:text=The%20difference%20between%20multiprocessing%20and,using%20a%20single%20CPU%20only.)
+- [L4: Introduction to Concurrent Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/lecture-notes-and-video/l4-introduction-to-concurrent-programming/)
+- [Operating System #21 Scheduling in Linux: O(n), O(1) Scheduler](https://www.youtube.com/watch?v=vF3KKMI3_1s)
+- [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+- [Unix Pipeline (Brian Kernighan) - Computerphile](https://www.youtube.com/watch?v=bKzonnwoR2I)
+- [Clustered Systems](https://www.tutorialspoint.com/Clustered-Systems)
 
 # Data communications :
 
