@@ -91,6 +91,9 @@ All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour
 - [Basics of OS (Storage Structure)](https://www.youtube.com/watch?v=YcRd3WMbXnE)
 - [Mass storage Systems](https://www.youtube.com/watch?v=KMETs6ONOoI)
 - [What is a Process? |  Process Management--- Basics + Scheduling algo's | OS | part-5](https://www.youtube.com/watch?v=PCZ1yxVN4n4)
+- [Process States & Queues & Schedulers |  Process Management--- Basics + Scheduling algo | OS | part-6](https://www.youtube.com/watch?v=j1cC9Zx7XgE)
+- [CPU Scheduling (STS) timings |  Process Management--- Basics + Scheduling algo's | OS | part-7](https://www.youtube.com/watch?v=8xP2dnrXdc0)
+- [Scheduling Algorithms: FCFS |  Process Management--- Basics + Scheduling algo | OS | part-8](https://www.youtube.com/watch?v=Co2j5lT0UuY)
 
 
 # Data communications :
