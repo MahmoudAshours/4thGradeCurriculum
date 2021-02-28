@@ -94,6 +94,9 @@ All scripts are done in [Basic Linux scripts](https://github.com/MeitanteiAshour
 - [Process States & Queues & Schedulers |  Process Management--- Basics + Scheduling algo | OS | part-6](https://www.youtube.com/watch?v=j1cC9Zx7XgE)
 - [CPU Scheduling (STS) timings |  Process Management--- Basics + Scheduling algo's | OS | part-7](https://www.youtube.com/watch?v=8xP2dnrXdc0)
 - [Scheduling Algorithms: FCFS |  Process Management--- Basics + Scheduling algo | OS | part-8](https://www.youtube.com/watch?v=Co2j5lT0UuY)
+- [Round Robin and Multi-level-Queuing Algorithm](https://www.youtube.com/watch?v=QQYNG8wRkd4)
+- [15. Types of Schedulers](https://www.youtube.com/watch?v=-KELvnesplc)
+- [Process Scheduling](https://www.youtube.com/watch?v=2h3eWaPx8SA)
 
 
 # Data communications :
