@@ -220,6 +220,8 @@ Data communications refers to the transmission of this digital data between two 
 - [Benefits of a Data Warehouse](https://www.youtube.com/watch?v=KGHbY_Sales)
 - [What is a Data Warehouse -  Explained with real life example | datawarehouse vs database (2020)](https://www.youtube.com/watch?v=jmwGNhUXn_o)
 
+# Dynamic Languages
+
 # Image processing
 
 [My projects (tasks) on image processing using python & shell.](https://github.com/MeitanteiAshour/IPApps)
