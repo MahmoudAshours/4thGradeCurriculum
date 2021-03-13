@@ -10,10 +10,10 @@ First :
 
 ## Practical exams :__
 
-| Data communication | 20/3/2021 |
+| Image Processing | 21/3/2021 |
 | --- | --- |
-| Operating system | 25 / 3 / 2021 |
-| Image processing | 23 / 3 / 2021 |
+| Operating system | 22 / 3 / 2021 |
+| Data communications | 23 / 3 / 2021 |
 | Dynamic languages | 24 / 3 / 2021 |
 | Data mining | 25 / 3 / 2021 |
 
